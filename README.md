@@ -7,7 +7,13 @@ To use this template, clone this repository and add `--template file:../path/to/
 For example:
 
 ```sh
-npx create-react-app my-app --template file:../my-templates/cra-template-ts-sass-bootstrap
+git clone https://github.com/fabalexsie/cra-template-ts-sass-bootstrap
+```
+```sh
+npx create-react-app my-app --template file:./cra-template-ts-sass-bootstrap
+```
+```sh
+del cra-template-ts-sass-bootstrap
 ```
 
 For more information, please refer to:
