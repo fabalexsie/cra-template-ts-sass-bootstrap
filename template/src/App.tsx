@@ -21,7 +21,7 @@ function App() {
             Template from <a
               href="https://github.com/fabalexsie/cra-template-ts-sass-bootstrap"
               target="_blank"
-              rel="noopener noreferrer">gihub.com/fabalexsie</a>.
+              rel="noopener noreferrer">github.com/fabalexsie</a>.
           </p>
         </Col>
       </Row>
